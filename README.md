@@ -1,1 +1,1 @@
-No longer usable :(
+Use your own api key
