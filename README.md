@@ -1,1 +1,1 @@
-A synthetic data generator 
+No longer usable :(
